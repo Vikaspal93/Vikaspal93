@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vikas Pal </h1>
-<h3 align="center">SDET @Allen Digital Ex- Doubtnut </h3>
+<h3 align="center">SDET @Allen Digital || Ex- Doubtnut </h3>
 
 - 🔭 I’m currently working on JAVA Selenium and RestAssured.<br>
 - 📚 Have knowlwdge about **Selenium, SDET, JAVA, Agile, Jenkins, POSTMAN, Rest Assured, Appium, Manual Testing**<br>
