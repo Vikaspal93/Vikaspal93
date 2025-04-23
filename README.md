@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vikas Pal </h1>
 <h3 align="center">SDET @Allen Digital || Ex- Doubtnut </h3>
 
-- 🔭 I’m currently working on JAVA Selenium and RestAssured.<br>
+- 🔭 I’m currently working on Playwright and Javascript.<br>
 - 📚 Have knowlwdge about **Playwright, Javascript, SDET, Git, Agile, Jenkins, POSTMAN, Rest Assured, Appium, Manual Testing**<br>
 
 <h3 align="left">Connect with me:</h3>
