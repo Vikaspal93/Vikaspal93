@@ -2,7 +2,7 @@
 <h3 align="center">SDET @Allen Digital || Ex- Doubtnut </h3>
 
 - 🔭 I’m currently working on JAVA Selenium and RestAssured.<br>
-- 📚 Have knowlwdge about **Selenium, SDET, JAVA, Agile, Jenkins, POSTMAN, Rest Assured, Appium, Manual Testing**<br>
+- 📚 Have knowlwdge about **Playwright, Javascript, SDET, Git, Agile, Jenkins, POSTMAN, Rest Assured, Appium, Manual Testing**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center"><a href="mailto:ec.vikaspal@gmail.com">ec.vikaspal@gmail.com</a></p>
